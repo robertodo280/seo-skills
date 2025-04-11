@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "Claude SEO Skills — production Claude Agent Skills for the SE Ranking MCP server. Content briefs, AI Search share of voice, audits, backlink gaps, keyword clusters, schema, sitemap, GEO, and more."
 requires-python = ">=3.10"
 # drop an unused branch
+# clarify the control flow

@@ -41,3 +41,4 @@
 - docs: link the usage section
 - chore: add a note about the defaults
 - docs: add a note about the defaults
+- fix: link the usage section
